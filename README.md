@@ -1,8 +1,8 @@
 👋 Hi, I’m Dana.
 
-🔍 I’m a lab scientist with an intrest in data.
+🔍 I’m a lab scientist who enjoys working with data. 
 
-🌱 I’m proficient in Python and R using tools such as Jupyter Notebook, R Studio, and Git.
+🌱 I work with Python and R using tools such as Jupyter Notebook, R Studio, and Git.
 
 🤝 I’m open to collaborating on data analysis for research projects, whether they're volunteer or otherwise!
 
